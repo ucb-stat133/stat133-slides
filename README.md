@@ -21,19 +21,32 @@
 - [R Data Frames (2)](stat133-11-data-frames2.pdf)
 
 
-### Filesystem
+### Filesystem and CLI
 
 - [Filesystem Basics](stat133-12-filesystem-basics.pdf)
 - [File Paths](stat133-13-file-paths.pdf)
 - [Shell Basics](stat133-14-shell-basics.pdf)
 - [Command Line (Terminal)](stat133-15-command-line.pdf)
 - [Working with Files](stat133-16-working-with-files.pdf)
+- Redirection
+- Pipes
 
 
 ### Git
 
-- Git Fundamentals
+- Git Introduction
 - Git Basic Workflow
+- Git Undoing Changes
+- Git Remotes
+
+
+### Data Tables
+
+- [Data Tables](stat133-23-data-tables.pdf)
+- [Data in Spreadsheets](stat133-24-data-spreadsheets.pdf)
+- [Importing Tables (1)](stat133-24-importing-tables1.pdf)
+- [Importing Tables (2)](stat133-25-importing-tables2.pdf)
+- [Introduction to dplyr](dplyr-wickham.pdf)
 
 
 ### Data Visualization
@@ -48,9 +61,4 @@
 - Base R plot (2)
 
 
-### Data Tables
-
-- Data Tables
-- Imprting Tables
-- Introduction to dplyr
 
